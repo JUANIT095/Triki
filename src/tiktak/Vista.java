@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package tiktak;
 
 import java.awt.Color;
@@ -10,13 +6,11 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author ojigb
+ * @author Juanito
  */
 public class Vista extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Vista
-     */
+
     boolean estado = true;// si es true se puede escribir :D
     String siguientejuego="O";
     String turno = "X";
